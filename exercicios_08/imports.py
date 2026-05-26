@@ -1,0 +1,1 @@
+from exercicios_06.exec01 import exercicio_01

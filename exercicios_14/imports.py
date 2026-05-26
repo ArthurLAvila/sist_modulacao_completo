@@ -1,0 +1,12 @@
+from exercicios_14.conjuntos_ex1 import exercicio_01
+from exercicios_14.conjuntos_ex2 import exercicio_02
+from exercicios_14.conjuntos_ex3 import exercicio_03
+from exercicios_14.conjuntos_ex4 import exercicio_04
+from exercicios_14.conjuntos_ex5 import exercicio_05
+from exercicios_14.conjuntos_ex6 import exercicio_06
+from exercicios_14.conjuntos_ex7 import exercicio_07
+from exercicios_14.conjuntos_ex8 import exercicio_08
+from exercicios_14.conjuntos_ex9 import exercicio_09
+
+
+
